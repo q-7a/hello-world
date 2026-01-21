@@ -1,0 +1,21 @@
+ 'EOF'
+# IDE files
+.idea/
+.vscode/
+
+# Build outputs
+bin/
+dist/
+*.exe
+*.dll
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+
+# Logs
+*.log
+EOF
